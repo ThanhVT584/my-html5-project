@@ -1,4 +1,4 @@
-# Introduction to HTML5 - Final Project
+# Introduction about HTML5 - Final Project
 
 This repository contains the final capstone project for the **Introduction to HTML5** course offered by the **University of Michigan** on Coursera.
 
